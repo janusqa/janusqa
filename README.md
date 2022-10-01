@@ -1,5 +1,5 @@
 ![Mast Head](https://github.com/janusqa/janusqa/blob/main/masthead.jpeg)
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Greetings Earthlings.</h1>
 <h3 align="left">I'm a problem solver and software engineer.</h3>
 
 - 🌱 I’m currently learning **Typescript**
