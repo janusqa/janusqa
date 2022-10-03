@@ -1,8 +1,6 @@
 ![Mast Head](https://github.com/janusqa/janusqa/blob/main/masthead.jpeg)
 <h1 align="center">Greetings Earthlings!</h1>
-<h3 align="left">I'm a problem solver and software engineer.</h3>
-
-Software engineer with a grand affection for problem solving, and an interest in ML and Data Engineering. Currently a SDET for a leading knowledge management platform supporting 250K users.
+I'm a problem solver and software engineer, with a keen interest in ML and Data Engineering. Currently a SDET for a leading knowledge management platform supporting 250K users.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
