@@ -2,19 +2,7 @@
 <h1 align="center">Greetings Earthlings!</h1>
 <h3 align="left">I'm a problem solver and software engineer.</h3>
 
-- 🌱 I’m currently learning **Typescript**
-
-- 👯 I’m looking to collaborate on **Opensource projects**
-
-- 🤝 I’m looking for help with **Contributing to opensource projects**
-
-- 📝 I regularly write articles on [blog.retrievo.net](blog.retrievo.net)
-
-- 💬 Ask me about **Python, Golang, Javascript**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/aarofe/](https://www.linkedin.com/in/aarofe/)
-
-- ⚡ Fun fact **Since taking up "The Division" all other games are invisible to me.**
+Software engineer with a grand affection for problem solving, and an interest in ML and Data Engineering. Currently a SDET for a leading knowledge management platform supporting 250K users.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
