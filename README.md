@@ -15,7 +15,7 @@ I'm a problem solver and software engineer, with a keen interest in ML and Data 
 <img src="https://img.shields.io/badge/-BABEL-yellowgreen?label=|&style=plastic&logo=babel"/>
 <img src="https://img.shields.io/badge/-BOOTSTRAP-blue?label=|&style=plastic&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-C-yellowgreen?label=|&style=plastic&logo=c"/>
-<img src="https://img.shields.io/badge/-CHART.JS-blue?label=|&style=plastic&logo=chartjs"/>
+<img src="https://img.shields.io/badge/-CHART.JS-blue?label=|&style=plastic&logo=chart.js"/>
 <img src="https://img.shields.io/badge/-CSS3-yellowgreen?label=|&style=plastic&logo=css3"/>
 <img src="https://img.shields.io/badge/-CYPRESS-blue?label=|&style=plastic&logo=cypress"/>
 <img src="https://img.shields.io/badge/-DOCKER-yellowgreen?label=|&style=plastic&logo=docker"/>
