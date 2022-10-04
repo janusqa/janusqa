@@ -1,7 +1,9 @@
 ![Mast Head](https://github.com/janusqa/janusqa/blob/main/masthead.jpeg)
+<p align="center"><a href="https://www.linkedin.com/in/aarofe/" target="_blank"><img src="https://img.shields.io/badge/-LINKED--IN-blue?style=plastic&logo=linkedin"/></a></p>
 <h1 align="center">Greetings Earthlings!</h1>
+<p>
 I'm a problem solver and software engineer, with a keen interest in ML and Data Engineering. Currently a SDET for a leading knowledge management platform supporting 250K users.
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aarofe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarofe" height="30" width="40" /></a>
