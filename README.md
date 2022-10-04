@@ -35,7 +35,7 @@ I'm a problem solver and software engineer, with a keen interest in ML and Data 
 <img src="https://img.shields.io/badge/-MOCHA-yellowgreen?label=|&style=plastic&logo=mocha"/>
 <img src="https://img.shields.io/badge/-mongodb-blue?label=|&style=plastic&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-MSSQL-yellowgreen?label=|&style=plastic&logo=microsoftsqlserver"/>
-<img src="https://img.shields.io/badge/-MARIA-DB-blue?label=|&style=plastic&logo=mariadb"/>
+<img src="https://img.shields.io/badge/-MARIA--DB-blue?label=|&style=plastic&logo=mariadb"/>
 <img src="https://img.shields.io/badge/-NGINX-yellowgreen?label=|&style=plastic&logo=nginx"/>
 <img src="https://img.shields.io/badge/-NODEJS-blue?label=|&style=plastic&logo=nodejs"/>
 <img src="https://img.shields.io/badge/-PANDAS-yellowgreen?label=|&style=plastic&logo=pandas"/>
