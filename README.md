@@ -1,8 +1,8 @@
 ![Mast Head](https://github.com/janusqa/janusqa/blob/main/masthead.jpeg)
 <p align="center">
-<a href="https://www.linkedin.com/in/aarofe" target="_blank"><img src="https://img.shields.io/badge/-LINKED--IN-blue?style=plastic&logo=linkedin"/></a> | 
-<a href="https://kaggle.com/janusdev" target="_blank"><img src="https://img.shields.io/badge/-KAGGLE-yellowgreen?style=plastic&logo=kaggle"/></a> | 
-<a href="https://hashnode.com/@janus" target="_blank"><img src="https://img.shields.io/badge/-HASHNODE-blue?style=plastic&logo=hashnode"/></a>
+<a href="https://www.linkedin.com/in/aarofe" target="_blank"><img src="https://img.shields.io/badge/-LINKED--IN-blue?label=|style=plastic&logo=linkedin"/></a>
+<a href="https://kaggle.com/janusdev" target="_blank"><img src="https://img.shields.io/badge/-KAGGLE-yellowgreen?label=|label=|style=plastic&logo=kaggle"/></a>
+<a href="https://hashnode.com/@janus" target="_blank"><img src="https://img.shields.io/badge/-HASHNODE-blue?label=|style=plastic&logo=hashnode"/></a>
 </p>
 <h1 align="center">Greetings Earthlings!</h1>
 <p>
