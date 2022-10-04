@@ -15,7 +15,7 @@ I'm a problem solver and software engineer, with a keen interest in ML and Data 
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"> Aaro - A counting and strategy game</h3>
-      <img src="https://github.com/janusqa/janusqa/blob/main/assets/Selection_1394.png"/>
+      <a href="https://aaro.cariblife.com" target="_blank"><img src="https://github.com/janusqa/janusqa/blob/main/assets/Selection_1394.png"/></a>
       <p align="center">
         <a href="https://aaro.cariblife.com" target="_blank"><img src="https://img.shields.io/badge/-WEBSITE-blue?label=|&style=plastic&logo=academia"/></a>
       </p>
