@@ -9,6 +9,19 @@
 I'm a problem solver and software engineer, with a keen interest in ML and Data Engineering. Currently a SDET for a leading knowledge management platform supporting 250K users.
 </p>
 
+<h3 align="center">Projects</h3>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"> Aaro - A counting and strategy game</h3>
+      <p align="center">
+        <a href="https://aaro.cariblife.com" target="_blank"><img src="https://img.shields.io/badge/-AARO-blue?label=|&style=plastic&logo=acadamia"/></a>
+      </p>
+    </td>
+   </tr>
+</table>
+
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/-AWS-blue?label=|&style=plastic&logo=amazonaws"/>
