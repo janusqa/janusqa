@@ -6,7 +6,7 @@
 </p>
 <h1 align="center">Greetings Earthlings!</h1>
 <p>
-I'm a problem solver and software engineer, with a keen interest in ML and Data Engineering. Currently a SDET for a leading knowledge management platform supporting 250K users.
+I'm a problem solver and software engineer, with a keen interest in ML and Data Engineering. Currently a Software Quaility Assurance Engineer for a leading knowledge management platform supporting 250K users.
 </p>
 
 <h3 align="center">Projects</h3>
