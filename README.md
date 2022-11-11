@@ -22,7 +22,7 @@ I'm a problem solver and software engineer, with a keen interest in ML and Data 
     </td>
         <td width="50%" valign="top">
       <h3 align="center"> Bring your own Gateway</h3>
-      <a href="https://byog.cariblife.com" target="_blank"><img src="https://github.com/janusqa/janusqa/blob/main/assets/Selection_1394.png"/></a>
+      <a href="https://byog.cariblife.com" target="_blank"><img src="https://github.com/janusqa/janusqa/blob/main/assets/Selection_1459.png"/></a>
       <p align="center">
         <a href="https://byog.cariblife.com" target="_blank"><img src="https://img.shields.io/badge/-WEBSITE-blue?label=|&style=plastic&logo=wordpress"/></a>
       </p>
