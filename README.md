@@ -8,9 +8,7 @@
 <p>
 I'm a problem solver and software engineer, with a keen interest in ML and Data Engineering. Currently a Software Quaility Assurance Engineer for a leading knowledge management platform supporting 250K users.
 </p>
-
-
-<table bordercolor="#66b2b2">
+  <table bordercolor="#66b2b2" style="text-align:center;">
   <th colspan="2"><h3 align="center">Projects</h3></th>
   <tr>
     <td width="50%" valign="top">
