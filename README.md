@@ -12,7 +12,7 @@ I'm a problem solver and software engineer, with a keen interest in ML and Data 
 <h3 align="center">Projects</h3>
 <table bordercolor="#66b2b2">
   
-  <tr>
+  <tr style="margin-inline: auto;">
     <td width="50%" valign="top">
       <h3 align="center"> Aaro - A counting and strategy game</h3>
       <a href="https://aaro.cariblife.com" target="_blank"><img src="https://github.com/janusqa/janusqa/blob/main/assets/Selection_1394.png"/></a>
