@@ -11,7 +11,7 @@ I'm a problem solver and software engineer, with a keen interest in ML and Data 
 
 
 <table bordercolor="#66b2b2">
-  <th colspan="2"><h3 align="left">Projects</h3></th>
+  <th colspan="2"><h3 align="center">Projects</h3></th>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"> Aaro - A counting and strategy game</h3>
