@@ -10,7 +10,7 @@ I'm a problem solver and software engineer, with a keen interest in ML and Data 
 </p>
 
 <h3 align="center">Projects</h3>
-<table bordercolor="#66b2b2" style="margin-inline: auto;">
+<table bordercolor="#66b2b2" align"center">
   
   <tr >
     <td width="50%" valign="top">
