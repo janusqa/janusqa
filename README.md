@@ -32,27 +32,21 @@ I'm a problem solver and software engineer, with a keen interest in ML and Data 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/-AWS-blue?label=|&style=plastic&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/-BABEL-yellowgreen?label=|&style=plastic&logo=babel"/>
-<img src="https://img.shields.io/badge/-BOOTSTRAP-blue?label=|&style=plastic&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-C-yellowgreen?label=|&style=plastic&logo=c"/>
-<img src="https://img.shields.io/badge/-CHART.JS-blue?label=|&style=plastic&logo=chart.js"/>
 <img src="https://img.shields.io/badge/-CSS3-yellowgreen?label=|&style=plastic&logo=css3"/>
 <img src="https://img.shields.io/badge/-CYPRESS-blue?label=|&style=plastic&logo=cypress"/>
 <img src="https://img.shields.io/badge/-DOCKER-yellowgreen?label=|&style=plastic&logo=docker"/>
 <img src="https://img.shields.io/badge/-EXPRESS-blue?label=|&style=plastic&logo=express"/>
 <img src="https://img.shields.io/badge/-FLASK-yellowgreen?label=|&style=plastic&logo=flask"/>
-<img src="https://img.shields.io/badge/-FLUTTER-blue?label=|&style=plastic&logo=flutter"/>
 <img src="https://img.shields.io/badge/-GCP-yellowgreen?label=|&style=plastic&logo=googlecloud"/>
 <img src="https://img.shields.io/badge/-GIT-blue?label=|&style=plastic&logo=git"/>
 <img src="https://img.shields.io/badge/-GOLANG-yellowgreen?label=|&style=plastic&logo=go"/>
 <img src="https://img.shields.io/badge/-GRAPHQL-blue?label=|&style=plastic&logo=graphql"/>
 <img src="https://img.shields.io/badge/-HTML5-yellowgreen?label=|&style=plastic&logo=html5"/>
-<img src="https://img.shields.io/badge/-JAVA-blue?label=|&style=plastic&logo=openjdk"/>
 <img src="https://img.shields.io/badge/-JAVASCRIPT-yellowgreen?label=|&style=plastic&logo=javascript"/>
 <img src="https://img.shields.io/badge/-JEST-blue?label=|&style=plastic&logo=jest"/>
 <img src="https://img.shields.io/badge/-LINUX-yellowgreen?label=|&style=plastic&logo=linux"/>
 <img src="https://img.shields.io/badge/-MYSQL-blue?label=|&style=plastic&logo=mysql"/>
-<img src="https://img.shields.io/badge/-MOCHA-yellowgreen?label=|&style=plastic&logo=mocha"/>
 <img src="https://img.shields.io/badge/-MONGODB-blue?label=|&style=plastic&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-MSSQL-yellowgreen?label=|&style=plastic&logo=microsoftsqlserver"/>
 <img src="https://img.shields.io/badge/-MARIADB-blue?label=|&style=plastic&logo=mariadb"/>
