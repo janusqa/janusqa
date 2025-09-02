@@ -5,20 +5,20 @@ Welcome! I'm a detail-oriented Software Engineer developing modern solutions wit
 <p>
   <h2>Tech Stack & Expertise</h2>
   <ul>
-    <li>Languages: TypeScript | JavaScript | Python | Golang | C# | PHP | SQL</li>
-    <li>FrameWork &amp; Libraries: React | Node | .NET</li>
-    <li>Infra &amp Tools: GCP | AWS | Docker| Git </li>
-    <li>Content Management: Joomla | Wordpress | Wix</li>
-    <li>Databases: MSSQL | MySQL | Postgres | MongoDB, SQLite</li>
+    <li><strong>Languages</strong>: TypeScript | JavaScript | Python | Golang | C# | PHP | SQL</li>
+    <li><strong>FrameWork &amp; Libraries</strong>: React | Node | .NET</li>
+    <li><strong>Infra &amp Tools</strong>: GCP | AWS | Docker| Git </li>
+    <li><strong>Content Management</strong>: Joomla | Wordpress | Wix</li>
+    <li><strong>Databases</strong>: MSSQL | MySQL | Postgres | MongoDB, SQLite</li>
   </ul>
 </p>
 <p>
   <h2>Featured Projects</h2>
   <ul>
-    <li><a href="https://aaro.cariblife.com" target="_blank">Aaro</a>: A counting and strategy game</li>
-    <li><a href="https://byog.cariblife.com" target="_blank">BYOG</a>: Credit Card Processing</li>
-    <li>Clutch: A proximity based dating application</li>
-    <li>Membership Pro+: Memebership management application</li>
+    <li><strong><a href="https://aaro.cariblife.com" target="_blank">Aaro</a></strong>: A counting and strategy game</li>
+    <li><strong><a href="https://byog.cariblife.com" target="_blank">BYOG</a></strong>: Credit Card Processing</li>
+    <li><strong>Clutch</strong>: A proximity based dating application</li>
+    <li><strong>Membership Pro+</strong>: Memebership management application</li>
   </ul>
 </p>
 <p>
