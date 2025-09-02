@@ -3,7 +3,7 @@
 Welcome! I'm a detail-oriented Software Engineer developing modern solutions with a client focused approach using React / React-Native / Typescript or C# / .NET to create frontends that enhance client experience while also prioritizing business needs, using C# / .NET, NodeJS or Golang paired with SQL Server / MySQL / Postgres on the backend to process and store information for business insights. Developers, lets develop.
 </p>
 <p>
-  <h1>Tech Stack & Expertise</h1>
+  <h2>Tech Stack & Expertise</h2>
   <ul>
     <li>Languages: </li>
     <li>FrameWork &amp; Libraries: </li>
