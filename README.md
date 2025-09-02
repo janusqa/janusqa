@@ -1,12 +1,15 @@
 ![Mast Head](https://github.com/janusqa/janusqa/blob/main/masthead.jpeg)
-<p align="center">
-<a href="https://www.linkedin.com/in/aarofe" target="_blank"><img src="https://img.shields.io/badge/-LINKED--IN-blue?label=|&style=plastic&logo=linkedin"/></a>
-<a href="https://kaggle.com/janusdev" target="_blank"><img src="https://img.shields.io/badge/-KAGGLE-yellowgreen?label=|&style=plastic&logo=kaggle"/></a>
-<a href="https://hashnode.com/@janus" target="_blank"><img src="https://img.shields.io/badge/-HASHNODE-blue?label=|&style=plastic&logo=hashnode"/></a>
-</p>
-<h1 align="center">Greetings Earthlings!</h1>
 <p>
-I'm a problem solver and software engineer, with a keen interest in ML and Data Engineering. Currently a Software Quaility Assurance Engineer for a leading knowledge management platform supporting 250K users.
+Welcome! I'm a detail-oriented Software Engineer developing modern solutions with a client focused approach using React / React-Native / Typescript or C# / .NET to create frontends that enhance client experience while also prioritizing business needs, using C# / .NET, NodeJS or Golang paired with SQL Server / MySQL / Postgres on the backend to process and store information for business insights. Developers, lets develop.
+</p>
+<p>
+  <h1>Tech Stack & Expertise</h1>
+  <ul>
+    <li>Languages: </li>
+    <li>FrameWork &amp; Libraries: </li>
+    <li>Languages: </li>
+    <li>Databases: </li>
+  </ul>
 </p>
 <div align="center">
   <table bordercolor="#66b2b2">
