@@ -9,7 +9,7 @@ Welcome! I'm a detail-oriented Software Engineer developing modern solutions wit
     <li><strong>FrameWork &amp; Libraries</strong>: React | Node | .NET</li>
     <li><strong>Infra &amp Tools</strong>: GCP | AWS | Docker| Git </li>
     <li><strong>Content Management</strong>: Joomla | Wordpress | Wix</li>
-    <li><strong>Databases</strong>: MSSQL | MySQL | Postgres | MongoDB, SQLite</li>
+    <li><strong>Databases</strong>: MSSQL | MySQL | Postgres | MongoDB | SQLite</li>
   </ul>
 </p>
 <p>
