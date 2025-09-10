@@ -6,7 +6,7 @@ Welcome! I'm a detail-oriented Software Engineer developing modern solutions wit
   <h2>🔧 Tech Stack & Expertise</h2>
   <ul>
     <li><strong>Languages</strong>: TypeScript | JavaScript | Python | Golang | C# | PHP | SQL</li>
-    <li><strong>FrameWork &amp; Libraries</strong>: React | Node | .NET</li>
+    <li><strong>Framework &amp; Libraries</strong>: React | Node | .NET</li>
     <li><strong>Infra &amp Tools</strong>: GCP | AWS | Docker | Git </li>
     <li><strong>Content Management</strong>: Joomla | Wordpress | Wix</li>
     <li><strong>Databases</strong>: MSSQL | MySQL | Postgres | MongoDB | SQLite</li>
