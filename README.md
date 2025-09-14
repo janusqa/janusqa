@@ -1,6 +1,6 @@
 ![Mast Head](https://github.com/janusqa/janusqa/blob/main/masthead.jpeg)
 <p>
-Welcome! I'm a detail-oriented Software Engineer developing modern solutions with a client focused approach using React / React-Native / Typescript or C# / .NET to create frontends that enhance client experience while also prioritizing business needs, using C# / .NET, NodeJS or Golang paired with SQL Server / MySQL / Postgres on the backend to process and store information for business insights. Developers, lets develop.
+Welcome! I'm a detail-oriented and client-focused Full-Stack Software Engineer specializing in developing modern solutions that enhance user experience and drive business value. I leverage a versatile tech stack—including React, React Native, and TypeScript for dynamic frontends and C#/.NET, Node.js, and Golang with SQL/Postgres backends—to build robust, scalable systems that process data into actionable business insights. Developers, lets develop.
 </p>
 <p>
   <h2>🔧 Tech Stack & Expertise</h2>
