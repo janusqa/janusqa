@@ -15,10 +15,10 @@ Welcome! I'm a detail-oriented and client-focused Full-Stack Software Engineer s
 <p>
   <h2>🌟 Featured Projects</h2>
   <ul>
-    <li><strong><a href="https://aaro.cariblife.com" target="_blank">Aaro</a></strong>: A counting and strategy game</li>
-    <li><strong><a href="https://byog.cariblife.com" target="_blank">BYOG</a></strong>: Credit Card Processing</li>
-    <li><strong>Clutch</strong>: A proximity based dating application</li>
-    <li><strong>Membership Pro+</strong>: Memebership management application</li>
+    <li><strong><a href="https://aaro.cariblife.com" target="_blank">Aaro</a></strong>: A counting and strategy game (Javascript | Golang | MongoDB)</li>
+    <li><strong><a href="https://byog.cariblife.com" target="_blank">BYOG</a></strong>: Credit Card Processing (React | Typescript | NodeJS | Sqlite)</li>
+    <li><strong>Clutch</strong>: A proximity based dating application (React-Native | Typescript | NodeJS | Postgres)</li>
+    <li><strong>Membership Pro+</strong>: Memebership management application (Javascript | C# | .Net | MSSQL)</li>
   </ul>
 </p>
 <p>
