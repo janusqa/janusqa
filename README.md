@@ -22,6 +22,16 @@ Welcome! I'm a detail-oriented and client-focused Full-Stack Software Engineer s
   </ul>
 </p>
 <p>
+  <h2>🏆 Certifications & Milestones</h2>
+  <ul>
+    <li>Associate Cloud Engineer</li>
+    <li>Amazon Web Services Cloud Practitioner</li>
+    <li>Google Data Analytics Professional</li>
+    <li>Google Project Management Professional</li>
+    <li>Google IT Automation Professional</li>
+  </ul>
+</p>
+<p>
   <h2>📫 Connect with me:</h2>
   <ul>
     <li><a href="https://www.linkedin.com/in/aarofe" target="_blank">LinkedIn</a></li>
