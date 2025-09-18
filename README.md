@@ -24,7 +24,7 @@ Welcome! I'm a detail-oriented and client-focused Full-Stack Software Engineer s
 <p>
   <h2>🏆 Certifications & Milestones</h2>
   <ul>
-    <li>Associate Cloud Engineer</li>
+    <li>Google Associate Cloud Engineer</li>
     <li>Amazon Web Services Cloud Practitioner</li>
     <li>Google Data Analytics Professional</li>
     <li>Google Project Management Professional</li>
